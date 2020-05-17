@@ -1,0 +1,8 @@
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\bin\Debug\SerialComManager.dll
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\bin\Debug\SerialComManager.pdb
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\bin\Debug\ChecksumManager.dll
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\bin\Debug\PackageManager.dll
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\obj\Debug\SerialComManager.csproj.CoreCompileInputs.cache
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\obj\Debug\SerialComManager.csproj.CopyComplete
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\obj\Debug\SerialComManager.dll
+C:\Users\hidayet.colkusu\source\repos\SerialComManager\SerialComManager\obj\Debug\SerialComManager.pdb
